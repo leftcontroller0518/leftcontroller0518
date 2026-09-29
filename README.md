@@ -1,5 +1,5 @@
 # Hi there! I'm leftcontroller0518 👋
-https://soundcloud.com/roses-are-red-649678883/lag-train-ver-sou
+
 <img src="https://komarev.com/ghpvc/?username=leftcontroller0518" />
 中学2年生のC#erです。
 
